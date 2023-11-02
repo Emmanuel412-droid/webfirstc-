@@ -1,0 +1,15 @@
+﻿body {
+    background-color:lightgrey;
+}
+.textbox
+{
+    border-radius:5px;
+    width:100%;
+}
+.button{
+    background-color:black;
+    color:gold;
+}
+.label{
+    color:darkgreen;
+}

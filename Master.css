@@ -1,0 +1,33 @@
+﻿body {
+}
+.header{
+    background-color:black;
+    color:white;
+    width:100%;
+    height:fit-content;
+    text-align:center;
+}
+.nav{
+    background-color:maroon;
+    color:white;
+    width:100%;
+    height:fit-content;
+}
+.aside{
+    width:40%;
+    float:left;
+    height:fit-content;
+}
+.article{
+    width:55%;
+    float:left;
+    height:fit-content;
+}
+.footer{
+    background-color:black;
+    color:gold;
+    width:100%;
+    height:fit-content;
+    text-align:center;
+    clear:both;
+}
